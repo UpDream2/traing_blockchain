@@ -1,2 +1,2 @@
-# traing_blockchain
-for traing blockchain 
+# training_blockchain
+for training blockchain 
